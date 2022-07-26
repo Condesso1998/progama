@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TrabalhoFinal</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="menu_principal_label">First Fragment</string>
+    <string name="lista_Carros_labe">Second Fragment</string>
+    <string name="eliminar_carro_label">Eliminar Carro</string>
+    <string name="Clientes">Clientes</string>
+    <string name="Carros">Carros</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="inserir">Inserir</string>
+    <string name="alterar">Alterar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <string name="Matricula" />
+    <string name="Marca" />
+    <string name="Modelo" />
+    <string name="Cor" />
+
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="matricula_obrigatorio">Preencha a Matricula</string>
+    <string name="marca_obrigatorio">Preencha a Marca</string>
+    <string name="modelo_obrigatoria">preencha o Modelo</string>
+    <string name="cor_obrigatoria">preencha a Cor</string>
+
+    <string name="carro_guardado_sucesso">Carro guardado com sucesso</string>
+    <string name="erro_guardar_carro">Erro ao guardar carro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
